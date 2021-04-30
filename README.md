@@ -1,2 +1,2 @@
 # Rns-Travel
-Ubah folder menjadi rins
+Ubah nama folder menjadi rins
